@@ -24,10 +24,12 @@ Just a few HTML-related shortcuts. All keywords prefixed with `!`.
 
 | Keyword | Snippet |
 | ------- | ------- |
-!h5 | Skelton HTML document structure
+!h5 | Skeleton HTML document structure
 !icon | Snippet for Font Awesome icon 
 !lorem | String of Lorem Ipsum
 
+
+### !h5
 ```<!doctype html>
 <html class="no-js" lang="en">
     <head>
@@ -48,8 +50,9 @@ Just a few HTML-related shortcuts. All keywords prefixed with `!`.
     </body>
 </html>
 ``` 
-
+### !icon
 `<span class="fa " aria-hidden="true"></span> `
 
+### !lorem
 `Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.`
 
