@@ -26,7 +26,7 @@ Just a few HTML-related shortcuts. All keywords prefixed with `!`.
 | ------- | ------- |
 !h5 | Skeleton HTML document structure
 !icon | Snippet for Font Awesome icon 
-!lorem | String of Lorem Ipsum
+!docready | Wrapper function for document ready
 
 
 ### !h5
@@ -53,6 +53,8 @@ Just a few HTML-related shortcuts. All keywords prefixed with `!`.
 ### !icon
 `<span class="fa " aria-hidden="true"></span> `
 
-### !lorem
-`Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.`
-
+### !docready
+```$( document ).ready(function() {
+    console.log( "ready!" );
+});
+```
