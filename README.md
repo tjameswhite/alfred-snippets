@@ -9,7 +9,7 @@ Includes:
 | Keyword | Snippet |
 | ------- | ------- |
 gstat | `git status`
-gadd | `gitt add .`
+gadd | `git add .`
 gcheck | `git checkout`
 gmerge | `git merge`
 gpush | `git push`
