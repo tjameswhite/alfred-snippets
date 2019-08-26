@@ -58,3 +58,7 @@ Just a few HTML-related shortcuts. All keywords prefixed with `!`.
     console.log( "ready!" );
 });
 ```
+
+
+---
+&copy; by Tim White, 2019
